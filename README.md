@@ -17,7 +17,7 @@
 ## 🎯 Current Focus
 
 ```text
-🧠 Day job       IT Infrastructure & Cloud Administration @ Technology Matrix Group
+🧠 Day job       IT Infrastructure & Cloud Administration 
 🔭 Building      Pythinker AI — Personal AI Agent Framework (pip install pythinker-ai)
 🎓 Studying      M.S. Applied Artificial Intelligence @ Eastern University
 💬 Ask me about  LangGraph, Multi-Agent Systems, MLOps Pipelines
