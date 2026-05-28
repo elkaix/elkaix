@@ -4,8 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=620&lines=Productionizing+AI+Agents;Building+Scalable+MLOps+Pipelines;LLM+Orchestration+%26+Multi-Agent+Systems;Bridging+Clinical+Precision+with+Code)](https://github.com/mohamed-elkholy95)
 
-[![GitHub followers](https://img.shields.io/github/followers/mohamed-elkholy95?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/mohamed-elkholy95)
-[![GitHub stars](https://img.shields.io/github/stars/mohamed-elkholy95?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/mohamed-elkholy95)
+
 [![Profile Views](https://komarev.com/ghpvc/?username=mohamed-elkholy95&style=for-the-badge&color=blueviolet)](https://github.com/mohamed-elkholy95)
 
 *I engineer production-grade AI systems — specializing in LLM orchestration, multi-agent workflows, and scalable MLOps. 20+ open-source AI/ML projects.*
