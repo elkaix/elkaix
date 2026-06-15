@@ -49,7 +49,7 @@
 
 ---
 
-## 🚀 Flagship Projects
+## 🏆 Flagship Projects
 
 <div align="center">
 
