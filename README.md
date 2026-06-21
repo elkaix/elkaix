@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Mohamed Elkholy 👋
+# Hi there, I'm Mohamed  👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=620&lines=Productionizing+AI+Agents;Building+Scalable+MLOps+Pipelines;LLM+Orchestration+%26+Multi-Agent+Systems)](https://github.com/elkaix)
 
