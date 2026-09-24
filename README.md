@@ -53,7 +53,7 @@
 
 <div align="center">
 
-### [Pythinker Code — Review-First AI Engineering Agent](https://github.com/Pythoughts-labs/pythinker-code)
+### [Pythinker Code — Review-First AI Engineering Agent](https://github.com/PyModel/pythinker-code)
 
 [![PyPI](https://img.shields.io/pypi/v/pythinker-code?cacheSeconds=300)](https://pypi.org/project/pythinker-code/)
 [![Downloads](https://img.shields.io/pepy/dt/pythinker-code?label=downloads&labelColor=black&color=006400&cacheSeconds=600)](https://pepy.tech/projects/pythinker-code)
