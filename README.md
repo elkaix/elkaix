@@ -35,4 +35,3 @@ I build AI agents, developer tools, and applications with Python, Go, and TypeSc
 ## Education
 
 **M.S. in Applied Artificial Intelligence — Eastern University**  
-In progress.
